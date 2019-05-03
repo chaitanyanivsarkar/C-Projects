@@ -1,0 +1,10 @@
+Things to Add:
+Linked List
+Unrolled Linked List
+Hash
+Sorting Algorithms
+Stack and Queue
+Utility Algorithms like min, max, clamp, make_heap, etc.
+Priority Queue (Heap Binary, Binomial and Fibonacii)
+
+etc.
